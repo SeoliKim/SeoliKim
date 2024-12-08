@@ -2,7 +2,7 @@
 
 I am a passionate and creative software and AI engineer focusing on delivering innovative and efficient solutions.
 
-My professional experience spans project design & management, full-stack development, and AI solutions. My current interests lie in ❄ backend architecture, database design, and AI integration ❄. 
+My professional experience spans project design & management, full-stack development, and AI solutions. My current interests lie in backend architecture, database design, and AI integration. 
 
 Please visit my [personal profile](https://seolikim.github.io/) to learn more about my professional experience. 
 
